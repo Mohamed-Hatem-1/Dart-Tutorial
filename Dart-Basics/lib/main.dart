@@ -497,7 +497,6 @@ void main () {
   print("*************************************");
 
   // pass function to function
-  // pass function to attribute in a class
 
 }
 
