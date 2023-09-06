@@ -140,4 +140,8 @@ void main () {
   doctor d1 = doctor();
   print(d1.takeTemperature());
 
+  print("******************************");
+
+  // Passing functions and objects to class
+
 }
